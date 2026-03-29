@@ -1,5 +1,8 @@
-Hi, I'm Kunwar Singh 
-I'm a passionate Computer Science student at Vellore Institute of Technology, Bhopal — a part of the prestigious VIT family known for innovation and academic excellence.  Currently, I'm diving deep into the world of programming, algorithms, web development, and emerging technologies.
+Hi, I'm 
+KUNWAR SINGH
+I'm a passionate Computer Science student 
+Vellore Institute of Technology, Bhopal
+Currently, I'm diving deep into the world of programming, algorithms, web development, and emerging technologies.
 
  Education: B.Tech in Computer Science
  Institution: Vellore Institute of Technology (VIT), Bhopal
